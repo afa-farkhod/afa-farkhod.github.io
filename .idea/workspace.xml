@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a76ae48c-21dd-4cb3-b13c-592520adf2ec" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../css/jquery.fancybox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../css/style-single-page.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../css/styleIE.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../education.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../education.html.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../education.html.update-1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../font/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../font/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../font/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../font/css/animation.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../font/css/fontello-codes.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../font/css/fontello-embedded.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../font/css/fontello-ie7-codes.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../font/css/fontello-ie7.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../font/css/fontello.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../font/demo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../font/font/fontello.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../font/font/fontello.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../font/font/fontello.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../font/font/fontello.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/1-thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/2-thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/3-thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/4-thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/5-thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/6-thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/dr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/dummy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/eye.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/fancybox_sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/fb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/github.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/go.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/linkedin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/mini.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/mini.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/pin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/program.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/st.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/stack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/tw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/user-big.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/user.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/user.jpg.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/user.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js/form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js/jquery-1.10.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js/jquery.fancybox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js/mail.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skills.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../work.html.bak" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file://$USER_HOME$/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.24.4.darwin-arm64" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="30S9zcWOdO6Ai6gyD4TTdBHT1o7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "git-widget-placeholder": "main",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "/Users/farkhodabdukodirov",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-gosdk-d297c17c1fbd-d82d926f19eb-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-243.22562.186" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-GO-243.22562.186" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
