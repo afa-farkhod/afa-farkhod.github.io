@@ -1,0 +1,27 @@
+site_name: Farkhod Abdukodirov
+nav:
+#  - Home: index.md
+  - About: about.md
+  - Experience: experience.md
+  - Education: education.md
+  - Interest: interests.md
+
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc
+  - tables
+  - footnotes
+
+    #theme: mkdocs
+#theme: readthedocs
+theme:
+#  name: readthedocs
+  name: material
+  logo: images/personal-image.png
+extra_css:
+  - css/custom.css
+
+plugins:
+  - search
