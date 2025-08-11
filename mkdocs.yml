@@ -5,6 +5,9 @@ nav:
   - Experience: experience.md
   - Education: education.md
   - Interest: interests.md
+  - Publication: publication.md
+  - Languages: language.md
+  - Research Experience: research.md
 
 
 markdown_extensions:
