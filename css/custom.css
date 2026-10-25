@@ -1,0 +1,5 @@
+/* Example custom CSS */
+.wy-nav-content {
+    max-width: 1200px !important;
+    margin: auto;
+}
